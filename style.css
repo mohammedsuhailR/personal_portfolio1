@@ -186,7 +186,8 @@ img{
     row-gap: 5rem;
 }
 .home__title{
-    margin-top: 100px;
+    padding-bottom: 70px;
+    padding-top: 70px;
     font-size: var(--big-font-size);
     color: var(--white-color);
     line-height: .8;
